@@ -16,7 +16,7 @@ Currently exploring **Agentic AI Systems** and **Distributed Systems ✨** with 
 
 <!-- Profile Visitors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshat7garg&label=Profile%20Views&color=0e75b6&style=flat" 
+  <img src="https://komarev.com/ghpvc/?username=akxgarg&label=Profile%20Views&color=0e75b6&style=flat" 
        alt="Profile views counter" />
 </p>
 
