@@ -9,7 +9,7 @@ Currently exploring **Agentic AI Systems** and **Distributed Systems ✨** with 
 
 <!-- Lofi GIF -->
 <p align="center">
-  <img src="https://github.com/Akshat7garg/Akshat7garg/blob/main/lofi_room.gif" 
+  <img src="https://github.com/akxgarg/akxgarg/blob/main/lofi_room.gif" 
        alt="Lofi developer coding in a cozy night room" 
        width="920" />
 </p>
