@@ -111,14 +111,14 @@ const akshat = {
   <tr> 
     <!-- Gmail -->
     <td align="center"> 
-      <a href="mailto:akshatgarg.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+      <a href="mailto:akxgarg.tech@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=gmail" width="47" />
         <br/> Email
       </a>
     </td> 
     <!-- LinkedIn -->
     <td align="center"> 
-      <a href="https://www.linkedin.com/in/akshatgarg-dev" target="_blank" rel="noopener noreferrer" > 
+      <a href="https://www.linkedin.com/in/akxgarg" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=linkedin" width="47">
         <br/>LinkedIn 
       </a> 
@@ -138,14 +138,14 @@ const akshat = {
     </td> 
     <!-- LeetCode -->
     <td align="center"> 
-      <a href="https://leetcode.com/u/Akshat7garg" target="_blank" rel="noopener noreferrer" > 
+      <a href="https://leetcode.com/u/akxgarg" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=htmx" width="47">
         <br/>LeetCode 
       </a> 
     </td> 
     <!-- Twitter (X) -->
     <td align="center"> 
-      <a href="https://x.com/akshatgarg_dev" target="_blank" rel="noopener noreferrer" > 
+      <a href="https://x.com/akxgarg" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=twitter" width="47">
         <br/>Twitter 
       </a> 
