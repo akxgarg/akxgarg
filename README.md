@@ -131,7 +131,7 @@ const akshat = {
       </a> 
     </td>  -->
     <td align="center">
-      <a href="https://drive.google.com/file/d/1tl2OIho5dtTGexwCUbEzOPVOb1K-Gpe0/view" target="_blank" rel="noopener noreferrer" > 
+      <a href="https://drive.google.com/file/d/1TEYRF2v_MbExmwIpDVTakaEih3nRHG12/view?usp=drive_link" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=vite" width="47">
         <br/>Resume 
       </a> 
